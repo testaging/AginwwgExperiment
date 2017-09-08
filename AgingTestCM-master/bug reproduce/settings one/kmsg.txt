@@ -1,0 +1,270 @@
+<6>[  248.244120] mtp_release
+<6>[  248.338501] bq24192_irq_worker: power source changed! ext_pwr = 0 wlc_pwr = 0
+<6>[  248.350396] bq24192_irq_worker: notify vbus to usb otg ext_pwr = 0
+<6>[  248.352925] max17048_external_power_changed: power supply changed state = 2 health = 1
+<6>[  248.548169] dwc3 f9200000.dwc3: Avail curr from USB = 0
+<6>[  248.548679] dotg->charger->max_power = 500 ma = 0
+<6>[  248.549355] [Touch] CHARGER = 0
+<6>[  248.555120] msm-dwc3 msm_dwc3: DWC3 in low power mode
+<6>[  276.098919] bq24192_irq_worker: power source changed! ext_pwr = 1 wlc_pwr = 0
+<6>[  276.100564] bq24192_irq_worker: notify vbus to usb otg ext_pwr = 1
+<6>[  276.103597] max17048_external_power_changed: power supply changed state = 1 health = 1
+<6>[  276.303649] msm-dwc3 msm_dwc3: DWC3 exited from low power mode
+<6>[  276.448320] dwc3 f9200000.dwc3: Avail curr from USB = 500
+<6>[  276.448562] dotg->charger->max_power = 0 ma = 500
+<6>[  276.449125] [Touch] CHARGER = 1
+<6>[  276.450492] bq24192_set_input_i_limit: input current limit = 500 setting 0x02
+<6>[  276.451766] bq24192_set_ibat_max: req_ibat = 1500 set_ibat = 1472 reg_val = 0x3c
+<6>[  276.452853] bq24192_external_power_changed: usb is online! i_limit = 500 v_limit = 4600
+<3>[  276.548815] android_work: did not send uevent (0 0   (null))
+<3>[  276.726770] android_work: did not send uevent (0 0   (null))
+<3>[  276.783602] android_work: sent uevent USB_STATE=CONNECTED
+<3>[  276.787152] android_work: sent uevent USB_STATE=DISCONNECTED
+<3>[  276.914904] android_work: sent uevent USB_STATE=CONNECTED
+<6>[  276.915928] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+<3>[  276.968196] android_work: sent uevent USB_STATE=CONFIGURED
+<6>[  276.980980] mtp_open
+<6>[  278.098087] bq24192_set_input_i_limit: input current limit = 500 setting 0x02
+<6>[  318.590885] max17048_work: rsoc=0xB807 rvcell=0x0D38 soc=94 v_mv=4230 i_ua=-77111 t=333
+<6>[  337.042365] lm3630_backlight_off
+<6>[  337.268324] mdss_dsi_panel_off:
+<6>[  337.292043] [Touch] touch off
+<4>[  337.400457] dhd_set_suspend: force extra Suspend setting 
+<6>[  355.627138] [Touch] touch on
+<6>[  355.832418] mdss_dsi_panel_on
+<6>[  355.950056] lm3630_backlight_on
+<4>[  356.012859] dhd_set_suspend: Remove extra suspend setting 
+<6>[  357.970281] bcm2079x 0-0077: 10,64
+<3>[  363.598890] init: untracked pid 4380 exited
+<3>[  363.679523] init: untracked pid 4392 exited
+<3>[  363.765035] init: untracked pid 4400 exited
+<3>[  363.890527] init: untracked pid 4407 exited
+<3>[  363.977188] init: untracked pid 4414 exited
+<3>[  364.084468] init: untracked pid 4421 exited
+<3>[  364.172947] init: untracked pid 4431 exited
+<3>[  364.271930] init: untracked pid 4438 exited
+<3>[  364.377524] init: untracked pid 4445 exited
+<3>[  364.470957] init: untracked pid 4452 exited
+<3>[  364.571310] init: untracked pid 4459 exited
+<3>[  364.671567] init: untracked pid 4466 exited
+<3>[  364.772564] init: untracked pid 4473 exited
+<3>[  364.872335] init: untracked pid 4480 exited
+<3>[  364.972810] init: untracked pid 4487 exited
+<3>[  365.075136] init: untracked pid 4495 exited
+<3>[  365.179358] init: untracked pid 4503 exited
+<3>[  365.278688] init: untracked pid 4510 exited
+<3>[  365.378531] init: untracked pid 4517 exited
+<3>[  365.517554] init: untracked pid 4524 exited
+<3>[  365.617417] init: untracked pid 4534 exited
+<3>[  365.701524] init: untracked pid 4542 exited
+<3>[  365.787136] init: untracked pid 4549 exited
+<3>[  365.887192] init: untracked pid 4556 exited
+<3>[  365.995196] init: untracked pid 4563 exited
+<3>[  366.133048] init: untracked pid 4570 exited
+<3>[  366.186101] init: untracked pid 4577 exited
+<3>[  366.315019] init: untracked pid 4584 exited
+<3>[  366.409461] init: untracked pid 4591 exited
+<3>[  366.497970] init: untracked pid 4598 exited
+<3>[  366.586081] init: untracked pid 4611 exited
+<3>[  366.689711] init: untracked pid 4618 exited
+<3>[  366.787154] init: untracked pid 4625 exited
+<3>[  366.883871] init: untracked pid 4632 exited
+<3>[  367.008724] init: untracked pid 4639 exited
+<3>[  367.090718] init: untracked pid 4665 exited
+<3>[  367.184572] init: untracked pid 4691 exited
+<3>[  367.284714] init: untracked pid 4714 exited
+<3>[  367.388686] init: untracked pid 4727 exited
+<3>[  367.484912] init: untracked pid 4734 exited
+<3>[  367.591073] init: untracked pid 4744 exited
+<3>[  367.685620] init: untracked pid 4752 exited
+<3>[  367.791185] init: untracked pid 4762 exited
+<3>[  367.888935] init: untracked pid 4775 exited
+<3>[  367.988329] init: untracked pid 4788 exited
+<3>[  368.090531] init: untracked pid 4810 exited
+<3>[  368.192951] init: untracked pid 4826 exited
+<3>[  368.292493] init: untracked pid 4841 exited
+<3>[  368.392336] init: untracked pid 4854 exited
+<3>[  368.497245] init: untracked pid 4870 exited
+<3>[  368.592436] init: untracked pid 4884 exited
+<3>[  368.693227] init: untracked pid 4897 exited
+<3>[  368.796416] init: untracked pid 4907 exited
+<3>[  368.896592] init: untracked pid 4918 exited
+<3>[  368.991115] init: untracked pid 4937 exited
+<3>[  369.097525] init: untracked pid 4951 exited
+<3>[  369.196477] init: untracked pid 4963 exited
+<3>[  369.292832] init: untracked pid 4980 exited
+<3>[  369.395314] init: untracked pid 4993 exited
+<3>[  369.493590] init: untracked pid 5000 exited
+<3>[  369.598912] init: untracked pid 5007 exited
+<3>[  369.696139] init: untracked pid 5016 exited
+<3>[  369.801826] init: untracked pid 5024 exited
+<3>[  369.898045] init: untracked pid 5035 exited
+<3>[  370.000334] init: untracked pid 5047 exited
+<3>[  370.098388] init: untracked pid 5057 exited
+<3>[  370.201486] init: untracked pid 5065 exited
+<3>[  370.298483] init: untracked pid 5072 exited
+<3>[  370.400373] init: untracked pid 5082 exited
+<3>[  370.505151] init: untracked pid 5089 exited
+<3>[  370.606047] init: untracked pid 5099 exited
+<3>[  370.701738] init: untracked pid 5106 exited
+<3>[  370.819177] init: untracked pid 5113 exited
+<3>[  370.904991] init: untracked pid 5120 exited
+<3>[  371.015513] init: untracked pid 5127 exited
+<3>[  371.111248] init: untracked pid 5134 exited
+<3>[  371.209363] init: untracked pid 5141 exited
+<3>[  371.306786] init: untracked pid 5153 exited
+<3>[  371.404899] init: untracked pid 5161 exited
+<3>[  371.507053] init: untracked pid 5168 exited
+<3>[  371.609118] init: untracked pid 5175 exited
+<3>[  371.710774] init: untracked pid 5182 exited
+<3>[  371.809677] init: untracked pid 5193 exited
+<3>[  371.910920] init: untracked pid 5208 exited
+<3>[  372.010818] init: untracked pid 5223 exited
+<3>[  372.115860] init: untracked pid 5232 exited
+<3>[  372.209306] init: untracked pid 5241 exited
+<3>[  372.335875] init: untracked pid 5248 exited
+<3>[  372.415320] init: untracked pid 5261 exited
+<3>[  372.509548] init: untracked pid 5268 exited
+<3>[  372.609980] init: untracked pid 5275 exited
+<3>[  372.712378] init: untracked pid 5288 exited
+<3>[  372.812664] init: untracked pid 5295 exited
+<3>[  372.915520] init: untracked pid 5302 exited
+<3>[  373.019527] init: untracked pid 5309 exited
+<3>[  373.114012] init: untracked pid 5316 exited
+<3>[  373.213914] init: untracked pid 5323 exited
+<3>[  373.333494] init: untracked pid 5330 exited
+<3>[  373.419874] init: untracked pid 5338 exited
+<3>[  373.523511] init: untracked pid 5345 exited
+<3>[  373.619114] init: untracked pid 5352 exited
+<3>[  373.722922] init: untracked pid 5365 exited
+<3>[  373.814689] init: untracked pid 5380 exited
+<3>[  373.920692] init: untracked pid 5389 exited
+<3>[  374.016812] init: untracked pid 5400 exited
+<3>[  374.123021] init: untracked pid 5407 exited
+<3>[  374.250880] init: untracked pid 5414 exited
+<3>[  374.347084] init: untracked pid 5421 exited
+<3>[  374.435336] init: untracked pid 5428 exited
+<3>[  374.530916] init: untracked pid 5435 exited
+<3>[  374.649951] init: untracked pid 5442 exited
+<3>[  374.756841] init: untracked pid 5449 exited
+<3>[  374.857886] init: untracked pid 5459 exited
+<3>[  374.945090] init: untracked pid 5466 exited
+<3>[  375.064150] init: untracked pid 5473 exited
+<3>[  375.139596] init: untracked pid 5491 exited
+<3>[  375.239404] init: untracked pid 5499 exited
+<3>[  375.340557] init: untracked pid 5506 exited
+<3>[  375.442570] init: untracked pid 5516 exited
+<3>[  375.548265] init: untracked pid 5523 exited
+<3>[  375.661788] init: untracked pid 5534 exited
+<3>[  375.768839] init: untracked pid 5541 exited
+<3>[  375.850967] init: untracked pid 5548 exited
+<3>[  375.959093] init: untracked pid 5555 exited
+<3>[  376.043226] init: untracked pid 5563 exited
+<3>[  376.149407] init: untracked pid 5570 exited
+<3>[  376.251825] init: untracked pid 5577 exited
+<3>[  376.356256] init: untracked pid 5584 exited
+<3>[  376.459539] init: untracked pid 5591 exited
+<3>[  376.576743] init: untracked pid 5598 exited
+<3>[  376.682747] init: untracked pid 5605 exited
+<3>[  376.757353] init: untracked pid 5612 exited
+<3>[  376.855434] init: untracked pid 5619 exited
+<3>[  376.955235] init: untracked pid 5626 exited
+<3>[  377.059178] init: untracked pid 5633 exited
+<3>[  377.188434] init: untracked pid 5646 exited
+<3>[  377.261266] init: untracked pid 5659 exited
+<3>[  377.350190] init: untracked pid 5674 exited
+<3>[  377.476865] init: untracked pid 5685 exited
+<3>[  377.574640] init: untracked pid 5692 exited
+<3>[  377.701903] init: untracked pid 5702 exited
+<3>[  377.780814] init: untracked pid 5709 exited
+<3>[  377.902506] init: untracked pid 5716 exited
+<3>[  377.973381] init: untracked pid 5723 exited
+<3>[  378.055653] init: untracked pid 5741 exited
+<3>[  378.174846] init: untracked pid 5749 exited
+<3>[  378.349554] init: untracked pid 5759 exited
+<3>[  378.507608] init: untracked pid 5786 exited
+<3>[  378.597450] init: untracked pid 5800 exited
+<3>[  378.684206] init: untracked pid 5814 exited
+<3>[  378.794424] init: untracked pid 5830 exited
+<3>[  378.892574] init: untracked pid 5843 exited
+<3>[  379.000105] init: untracked pid 5857 exited
+<3>[  379.106751] init: untracked pid 5871 exited
+<3>[  379.190807] init: untracked pid 5882 exited
+<3>[  379.303896] init: untracked pid 5896 exited
+<3>[  379.392536] init: untracked pid 5909 exited
+<3>[  379.493843] init: untracked pid 5922 exited
+<3>[  379.593655] init: untracked pid 5937 exited
+<3>[  379.731196] init: untracked pid 5950 exited
+<3>[  379.801104] init: untracked pid 5963 exited
+<3>[  379.897799] init: untracked pid 5976 exited
+<3>[  379.966449] init: untracked pid 5985 exited
+<3>[  380.094048] init: untracked pid 5993 exited
+<3>[  380.186708] init: untracked pid 6000 exited
+<3>[  380.292152] init: untracked pid 6007 exited
+<3>[  380.394359] init: untracked pid 6017 exited
+<3>[  380.515516] init: untracked pid 6025 exited
+<3>[  380.589482] init: untracked pid 6032 exited
+<3>[  380.742878] init: untracked pid 6039 exited
+<3>[  380.773128] init: untracked pid 6055 exited
+<3>[  380.911271] init: untracked pid 6062 exited
+<3>[  380.998481] init: untracked pid 6080 exited
+<3>[  381.097080] init: untracked pid 6089 exited
+<3>[  381.171576] init: untracked pid 6098 exited
+<3>[  381.272365] init: untracked pid 6105 exited
+<3>[  381.371653] init: untracked pid 6112 exited
+<3>[  381.471667] init: untracked pid 6122 exited
+<3>[  381.575787] init: untracked pid 6132 exited
+<3>[  381.682882] init: untracked pid 6139 exited
+<3>[  381.772587] init: untracked pid 6150 exited
+<3>[  381.880265] init: untracked pid 6165 exited
+<3>[  381.977509] init: untracked pid 6178 exited
+<3>[  382.079654] init: untracked pid 6189 exited
+<3>[  382.181636] init: untracked pid 6198 exited
+<3>[  382.282269] init: untracked pid 6205 exited
+<3>[  382.392557] init: untracked pid 6212 exited
+<3>[  382.480720] init: untracked pid 6219 exited
+<3>[  382.584567] init: untracked pid 6226 exited
+<3>[  382.717671] init: untracked pid 6233 exited
+<3>[  382.814990] init: untracked pid 6240 exited
+<3>[  382.891416] init: untracked pid 6247 exited
+<3>[  383.045746] init: untracked pid 6254 exited
+<3>[  383.087256] init: untracked pid 6265 exited
+<3>[  383.183652] init: untracked pid 6274 exited
+<3>[  383.282974] init: untracked pid 6281 exited
+<3>[  383.385072] init: untracked pid 6291 exited
+<3>[  383.491658] init: untracked pid 6298 exited
+<3>[  383.585490] init: untracked pid 6305 exited
+<3>[  383.685845] init: untracked pid 6312 exited
+<3>[  383.785355] init: untracked pid 6319 exited
+<3>[  383.918896] init: untracked pid 6326 exited
+<3>[  383.985685] init: untracked pid 6333 exited
+<3>[  384.087185] init: untracked pid 6340 exited
+<3>[  384.185740] init: untracked pid 6347 exited
+<3>[  384.291622] init: untracked pid 6354 exited
+<3>[  384.390951] init: untracked pid 6361 exited
+<3>[  384.495850] init: untracked pid 6368 exited
+<3>[  384.620454] init: untracked pid 6375 exited
+<3>[  384.689763] init: untracked pid 6382 exited
+<3>[  384.789612] init: untracked pid 6389 exited
+<3>[  384.890761] init: untracked pid 6396 exited
+<3>[  385.043718] init: untracked pid 6406 exited
+<3>[  385.112893] init: untracked pid 6413 exited
+<3>[  385.223519] init: untracked pid 6420 exited
+<3>[  385.325654] init: untracked pid 6427 exited
+<3>[  386.114307] init: untracked pid 6454 exited
+<3>[  386.203990] init: untracked pid 6463 exited
+<3>[  386.912948] init: untracked pid 6491 exited
+<3>[  387.011753] init: untracked pid 6498 exited
+<3>[  387.109362] init: untracked pid 6509 exited
+<3>[  387.219374] init: untracked pid 6526 exited
+<3>[  387.312000] init: untracked pid 6537 exited
+<3>[  387.423122] init: untracked pid 6553 exited
+<3>[  387.514765] init: untracked pid 6566 exited
+<3>[  387.616520] init: untracked pid 6579 exited
+<3>[  387.715033] init: untracked pid 6592 exited
+<3>[  388.126376] init: untracked pid 6628 exited
+<3>[  388.341885] init: untracked pid 6658 exited
+<3>[  388.439934] init: untracked pid 6673 exited
+<6>[ 1133.296038] max17048_work: rsoc=0xB91B rvcell=0x0D3B soc=95 v_mv=4233 i_ua=-180193 t=342
+<6>[ 1143.077131] max17048_work: rsoc=0xB8F4 rvcell=0x0D1F soc=95 v_mv=4198 i_ua=265297 t=343
+<6>[ 1144.076553] max17048_work: rsoc=0xB91B rvcell=0x0D3B soc=95 v_mv=4233 i_ua=59431 t=343

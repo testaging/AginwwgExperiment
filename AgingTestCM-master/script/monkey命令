@@ -1,0 +1,9 @@
+adb shell monkey -v-v-v -p com.android.camera2 -p com.android.calculator2 -p com.android.calendar -p com.android.deskclock -p com.cyanogenmod.eleven -p com.tencent.mm -p com.ss.android.article.news -p com.youku.phone -p com.tencent.android.qqdownloader -p  com.baidu.BaiduMap --ignore-crashes --ignore-timeouts --ignore-security-exceptions --monitor-native-crashes --ignore-native-crashes --throttle 1000 10000000 > monkeyresult.txt
+
+adb shell monkey -v-v-v -p com.youku.phone --ignore-crashes --ignore-timeouts --ignore-security-exceptions --monitor-native-crashes --ignore-native-crashes --throttle 1000 100000000 > monkeyYouku.txt
+
+adb shell monkey -v-v-v -p com.zhihu.android --ignore-crashes --ignore-timeouts --ignore-security-exceptions --monitor-native-crashes --ignore-native-crashes --throttle 1000 100000000 > monkeyZhiHu.txt
+
+
+adb shell dumpsys procstats --hours 4
+

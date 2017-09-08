@@ -1,0 +1,3395 @@
+==>Sat Apr 15 08:34:57 2017
+Applications Memory Usage (kB):
+Uptime: 117046 Realtime: 117037
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3148     3096        0        0    12288     4570     7717
+  Dalvik Heap    13737    13120        0        0    35062    29532     5530
+ Dalvik Other      844      844        0        0                           
+        Stack      584      584        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1163      188        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      336        0        0        0                           
+    .dex mmap     1598        0       84        0                           
+    .oat mmap      407        0        4        0                           
+    .art mmap     1437     1228        0        0                           
+   Other mmap       40        4        0        0                           
+      Unknown      176      176        0        0                           
+        TOTAL    23475    19240       92        0    47350    34102    13247
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        7         Parcel count:       30
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:06 2017
+Applications Memory Usage (kB):
+Uptime: 127125 Realtime: 127116
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3530     3476        0        0    12288     4909     7378
+  Dalvik Heap    13606    12968        0        0    37338    29381     7957
+ Dalvik Other      648      648        0        0                           
+        Stack      644      644        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1178      196        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1687        0      152        0                           
+    .oat mmap      458        0       28        0                           
+    .art mmap     1512     1280        0        0                           
+   Other mmap       39        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24277    19824      184        0    49626    34290    15335
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        7         Parcel count:       30
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:18 2017
+Applications Memory Usage (kB):
+Uptime: 137130 Realtime: 137122
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3530     3476        0        0    12288     4914     7373
+  Dalvik Heap    13386    12748        0        0    37337    29176     8161
+ Dalvik Other      648      648        0        0                           
+        Stack      644      644        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1178      196        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1687        0      152        0                           
+    .oat mmap      461        0       28        0                           
+    .art mmap     1512     1280        0        0                           
+   Other mmap       39        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24060    19604      184        0    49625    34090    15534
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       32
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:26 2017
+Applications Memory Usage (kB):
+Uptime: 147103 Realtime: 147095
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3538     3484        0        0    12288     4887     7400
+  Dalvik Heap    13386    12748        0        0    37338    29177     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1178      196        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1687        0      152        0                           
+    .oat mmap      461        0       28        0                           
+    .art mmap     1513     1280        0        0                           
+   Other mmap       39        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24089    19632      184        0    49626    34064    15561
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       32
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:36 2017
+Applications Memory Usage (kB):
+Uptime: 157081 Realtime: 157073
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3538     3484        0        0    12288     4887     7400
+  Dalvik Heap    13386    12748        0        0    37338    29177     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1178      196        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      461        0       28        0                           
+    .art mmap     1513     1280        0        0                           
+   Other mmap       39        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24088    19632      184        0    49626    34064    15561
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       32
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:46 2017
+Applications Memory Usage (kB):
+Uptime: 167184 Realtime: 167176
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3586     3532        0        0    12288     4950     7338
+  Dalvik Heap    13510    12872        0        0    37369    29286     8083
+ Dalvik Other      680      680        0        0                           
+        Stack      684      684        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1171      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      446        0       28        0                           
+    .art mmap     1503     1288        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24278    19868      184        0    49657    34236    15421
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:35:56 2017
+Applications Memory Usage (kB):
+Uptime: 177182 Realtime: 177173
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3610     3556        0        0    12288     4978     7309
+  Dalvik Heap    13434    12796        0        0    37370    29214     8156
+ Dalvik Other      680      680        0        0                           
+        Stack      684      684        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1170      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      445        0       28        0                           
+    .art mmap     1506     1292        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24227    19820      184        0    49658    34192    15465
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:06 2017
+Applications Memory Usage (kB):
+Uptime: 187151 Realtime: 187143
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3548        0        0    12288     4956     7331
+  Dalvik Heap    13442    12804        0        0    37343    29211     8132
+ Dalvik Other      664      664        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1171      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      445        0       28        0                           
+    .art mmap     1507     1292        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24189    19780      184        0    49631    34167    15463
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:16 2017
+Applications Memory Usage (kB):
+Uptime: 197164 Realtime: 197155
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3548        0        0    12288     4956     7331
+  Dalvik Heap    13390    12752        0        0    37342    29181     8161
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1171      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      445        0       28        0                           
+    .art mmap     1507     1292        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24121    19712      184        0    49630    34137    15492
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:26 2017
+Applications Memory Usage (kB):
+Uptime: 207137 Realtime: 207129
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3548        0        0    12288     4958     7329
+  Dalvik Heap    13390    12752        0        0    37342    29181     8161
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1170      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      445        0       28        0                           
+    .art mmap     1507     1292        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24120    19712      184        0    49630    34139    15490
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:36 2017
+Applications Memory Usage (kB):
+Uptime: 217171 Realtime: 217162
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3582     3528        0        0    12288     4932     7355
+  Dalvik Heap    13390    12752        0        0    37342    29182     8160
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1171      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      362        0        0        0                           
+    .dex mmap     1686        0      152        0                           
+    .oat mmap      445        0       28        0                           
+    .art mmap     1507     1292        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24101    19692      184        0    49630    34114    15515
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:46 2017
+Applications Memory Usage (kB):
+Uptime: 227194 Realtime: 227186
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3584     3532        0        0    12288     4933     7354
+  Dalvik Heap    13368    12752        0        0    37342    29181     8161
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1062      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1492        0      152        0                           
+    .oat mmap      427        0       28        0                           
+    .art mmap     1499     1292        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23705    19696      184        0    49630    34114    15515
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:36:56 2017
+Applications Memory Usage (kB):
+Uptime: 237241 Realtime: 237233
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3584     3532        0        0    12288     4933     7355
+  Dalvik Heap    13368    12752        0        0    37342    29182     8160
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1062      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      427        0       28        0                           
+    .art mmap     1499     1292        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23704    19696      184        0    49630    34115    15515
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:10 2017
+Applications Memory Usage (kB):
+Uptime: 247497 Realtime: 247488
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3588     3536        0        0    12288     4934     7353
+  Dalvik Heap    13368    12752        0        0    37342    29182     8160
+ Dalvik Other      648      648        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1062      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      427        0       28        0                           
+    .art mmap     1499     1292        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23708    19700      184        0    49630    34116    15513
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:22 2017
+Applications Memory Usage (kB):
+Uptime: 257931 Realtime: 257922
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3586     3536        0        0    12288     4938     7349
+  Dalvik Heap    13385    12788        0        0    37342    29184     8158
+ Dalvik Other      672      672        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      420        0       28        0                           
+    .art mmap     1493     1292        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23731    19760      184        0    49630    34122    15507
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:27 2017
+Applications Memory Usage (kB):
+Uptime: 267500 Realtime: 267492
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3610     3560        0        0    12288     4960     7327
+  Dalvik Heap    13381    12784        0        0    37350    29192     8158
+ Dalvik Other      672      672        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23753    19788      184        0    49638    34152    15485
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:36 2017
+Applications Memory Usage (kB):
+Uptime: 277298 Realtime: 277289
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3610     3560        0        0    12288     4957     7330
+  Dalvik Heap    13357    12760        0        0    37347    29186     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23735    19744      184        0    49635    34143    15491
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:46 2017
+Applications Memory Usage (kB):
+Uptime: 287331 Realtime: 287322
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4931     7356
+  Dalvik Heap    13357    12760        0        0    37347    29186     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23715    19724      184        0    49635    34117    15517
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:37:57 2017
+Applications Memory Usage (kB):
+Uptime: 297297 Realtime: 297288
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4927     7360
+  Dalvik Heap    13357    12760        0        0    37347    29186     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23715    19724      184        0    49635    34113    15521
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:06 2017
+Applications Memory Usage (kB):
+Uptime: 307324 Realtime: 307315
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4915     7372
+  Dalvik Heap    13373    12776        0        0    37347    29187     8160
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23723    19732      184        0    49635    34102    15532
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:16 2017
+Applications Memory Usage (kB):
+Uptime: 317373 Realtime: 317365
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4904     7383
+  Dalvik Heap    13357    12760        0        0    37347    29187     8160
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1059      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23707    19716      184        0    49635    34091    15543
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:26 2017
+Applications Memory Usage (kB):
+Uptime: 327381 Realtime: 327372
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4904     7383
+  Dalvik Heap    13357    12760        0        0    37347    29186     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1491        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23706    19716      184        0    49635    34090    15544
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:37 2017
+Applications Memory Usage (kB):
+Uptime: 337381 Realtime: 337372
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4907     7380
+  Dalvik Heap    13397    12800        0        0    37348    29191     8157
+ Dalvik Other      668      668        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      295        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1499     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23716    19772      184        0    49636    34098    15537
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:47 2017
+Applications Memory Usage (kB):
+Uptime: 347401 Realtime: 347392
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4891     7396
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23701    19708      184        0    49636    34078    15557
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:38:56 2017
+Applications Memory Usage (kB):
+Uptime: 357368 Realtime: 357359
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4887     7400
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34074    15561
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:06 2017
+Applications Memory Usage (kB):
+Uptime: 367410 Realtime: 367402
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4885     7402
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34072    15563
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:16 2017
+Applications Memory Usage (kB):
+Uptime: 377375 Realtime: 377367
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4885     7402
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34072    15563
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:26 2017
+Applications Memory Usage (kB):
+Uptime: 387401 Realtime: 387392
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4885     7402
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34072    15563
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:36 2017
+Applications Memory Usage (kB):
+Uptime: 397451 Realtime: 397442
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4885     7402
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34072    15563
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:46 2017
+Applications Memory Usage (kB):
+Uptime: 407489 Realtime: 407480
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4885     7402
+  Dalvik Heap    13361    12764        0        0    37348    29188     8160
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23675    19708      184        0    49636    34073    15562
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:39:56 2017
+Applications Memory Usage (kB):
+Uptime: 417545 Realtime: 417536
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4883     7404
+  Dalvik Heap    13361    12764        0        0    37348    29187     8161
+ Dalvik Other      652      652        0        0                           
+        Stack      652      652        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23674    19708      184        0    49636    34070    15565
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:40:07 2017
+Applications Memory Usage (kB):
+Uptime: 427500 Realtime: 427491
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4883     7404
+  Dalvik Heap    13361    12764        0        0    37348    29188     8160
+ Dalvik Other      652      652        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23682    19716      184        0    49636    34071    15564
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:40:24 2017
+Applications Memory Usage (kB):
+Uptime: 437763 Realtime: 437754
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4882     7405
+  Dalvik Heap    15461    14864        0        0    37378    29188     8190
+ Dalvik Other      720      720        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    25876    21884      184        0    49666    34070    15595
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:40:45 2017
+Applications Memory Usage (kB):
+Uptime: 447563 Realtime: 447555
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4882     7405
+  Dalvik Heap    13445    12848        0        0    37378    29262     8116
+ Dalvik Other      672      672        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23812    19820      184        0    49666    34144    15521
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        8         Parcel count:       34
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:40:48 2017
+Applications Memory Usage (kB):
+Uptime: 457741 Realtime: 457732
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4896     7391
+  Dalvik Heap    18585    17988        0        0    37390    29235     8155
+ Dalvik Other      768      768        0        0                           
+        Stack      660      660        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    29048    25056      184        0    49678    34131    15546
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       36
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:40:49 2017
+Applications Memory Usage (kB):
+Uptime: 467585 Realtime: 467576
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4899     7388
+  Dalvik Heap    13469    12872        0        0    37378    29217     8161
+ Dalvik Other     1208     1208        0        0                           
+        Stack      668      668        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24354    20388      184        0    49666    34116    15549
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       36
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:41:12 2017
+Applications Memory Usage (kB):
+Uptime: 477842 Realtime: 477834
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3558     3508        0        0    12288     4893     7394
+  Dalvik Heap    22361    21764        0        0    37379    29191     8188
+ Dalvik Other      836      836        0        0                           
+        Stack      672      672        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    32858    28892      184        0    49667    34084    15582
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:41:12 2017
+Applications Memory Usage (kB):
+Uptime: 487671 Realtime: 487662
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3558     3508        0        0    12288     4894     7393
+  Dalvik Heap    24781    24184        0        0    37379    29223     8156
+ Dalvik Other      888      888        0        0                           
+        Stack      672      672        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1057      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      418        0       28        0                           
+    .art mmap     1500     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    35334    31364      188        0    49667    34117    15549
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:41:19 2017
+Applications Memory Usage (kB):
+Uptime: 497760 Realtime: 497751
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3574     3524        0        0    12288     4910     7377
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      660      660        0        0                           
+        Stack      700      700        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23733    19764      184        0    49639    34100    15538
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       38
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:41:32 2017
+Applications Memory Usage (kB):
+Uptime: 507640 Realtime: 507631
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3574     3524        0        0    12288     4911     7376
+  Dalvik Heap    13369    12772        0        0    37350    29189     8161
+ Dalvik Other      660      660        0        0                           
+        Stack      700      700        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23737    19768      184        0    49638    34100    15537
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       38
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:41:58 2017
+Applications Memory Usage (kB):
+Uptime: 517928 Realtime: 517919
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3574     3524        0        0    12288     4914     7373
+  Dalvik Heap    15277    14680        0        0    37379    29220     8159
+ Dalvik Other      724      724        0        0                           
+        Stack      700      700        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    25709    21740      184        0    49667    34134    15532
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       38
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:42:36 2017
+Applications Memory Usage (kB):
+Uptime: 527660 Realtime: 527651
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3574     3524        0        0    12288     4914     7373
+  Dalvik Heap    18925    18328        0        0    37379    29220     8159
+ Dalvik Other      780      780        0        0                           
+        Stack      700      700        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    29413    25444      184        0    49667    34134    15532
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:        9         Parcel count:       38
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:42:42 2017
+Applications Memory Usage (kB):
+Uptime: 537927 Realtime: 537918
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3578     3528        0        0    12288     4924     7363
+  Dalvik Heap    13433    12836        0        0    37409    29248     8161
+ Dalvik Other     1188     1188        0        0                           
+        Stack      708      708        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24341    20372      184        0    49697    34172    15524
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:42:43 2017
+Applications Memory Usage (kB):
+Uptime: 547893 Realtime: 547885
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3586     3536        0        0    12288     4944     7343
+  Dalvik Heap    14137    13540        0        0    37440    29271     8169
+ Dalvik Other      700      700        0        0                           
+        Stack      716      716        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24573    20604      184        0    49728    34215    15512
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:05 2017
+Applications Memory Usage (kB):
+Uptime: 577781 Realtime: 577772
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3586     3536        0        0    12288     4946     7341
+  Dalvik Heap    13529    12932        0        0    37440    29346     8094
+ Dalvik Other      680      680        0        0                           
+        Stack      724      724        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23957    19984      188        0    49728    34292    15435
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:05 2017
+Applications Memory Usage (kB):
+Uptime: 557710 Realtime: 557701
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3586     3536        0        0    12288     4944     7343
+  Dalvik Heap    17269    16672        0        0    37440    29302     8138
+ Dalvik Other      756      756        0        0                           
+        Stack      716      716        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    27765    23792      188        0    49728    34246    15481
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:08 2017
+Applications Memory Usage (kB):
+Uptime: 588618 Realtime: 588610
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3590     3540        0        0    12288     4955     7332
+  Dalvik Heap    14873    14276        0        0    37441    29278     8163
+ Dalvik Other      720      720        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    25365    21392      188        0    49729    34233    15495
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:09 2017
+Applications Memory Usage (kB):
+Uptime: 607263 Realtime: 607254
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4962     7325
+  Dalvik Heap    13561    12964        0        0    37411    29251     8160
+ Dalvik Other      700      700        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24037    20068      184        0    49699    34213    15485
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:26 2017
+Applications Memory Usage (kB):
+Uptime: 610198 Realtime: 610190
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4961     7326
+  Dalvik Heap    13565    12968        0        0    37414    29313     8101
+ Dalvik Other      692      692        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24033    20064      184        0    49702    34274    15427
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:28 2017
+Applications Memory Usage (kB):
+Uptime: 626085 Realtime: 626077
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4962     7325
+  Dalvik Heap    25165    24568        0        0    37380    29230     8150
+ Dalvik Other      904      904        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    35845    31876      184        0    49668    34192    15475
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:29 2017
+Applications Memory Usage (kB):
+Uptime: 629294 Realtime: 629286
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4961     7326
+  Dalvik Heap    13481    12884        0        0    37380    29264     8116
+ Dalvik Other      684      684        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23941    19972      184        0    49668    34225    15442
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:45 2017
+Applications Memory Usage (kB):
+Uptime: 641475 Realtime: 641467
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4961     7326
+  Dalvik Heap    15609    15012        0        0    37380    29190     8190
+ Dalvik Other      732      732        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    26117    22148      184        0    49668    34151    15516
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:43:46 2017
+Applications Memory Usage (kB):
+Uptime: 647138 Realtime: 647130
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3598     3548        0        0    12288     4961     7326
+  Dalvik Heap    13453    12856        0        0    37380    29264     8116
+ Dalvik Other      684      684        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23913    19944      184        0    49668    34225    15442
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:00 2017
+Applications Memory Usage (kB):
+Uptime: 656554 Realtime: 656546
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4960     7327
+  Dalvik Heap    13521    12924        0        0    37354    29223     8131
+ Dalvik Other      688      688        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23989    20020      184        0    49642    34183    15458
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:14 2017
+Applications Memory Usage (kB):
+Uptime: 667301 Realtime: 667292
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4962     7325
+  Dalvik Heap    13913    13316        0        0    37380    29190     8190
+ Dalvik Other      680      680        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24373    20404      184        0    49668    34152    15515
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:14 2017
+Applications Memory Usage (kB):
+Uptime: 668037 Realtime: 668029
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4962     7325
+  Dalvik Heap    13913    13316        0        0    37380    29222     8158
+ Dalvik Other      680      680        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      295        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    24351    20404      184        0    49668    34184    15483
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:17 2017
+Applications Memory Usage (kB):
+Uptime: 677878 Realtime: 677870
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4962     7325
+  Dalvik Heap    13501    12904        0        0    37410    29294     8116
+ Dalvik Other      696      696        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23977    20008      184        0    49698    34256    15441
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:41 2017
+Applications Memory Usage (kB):
+Uptime: 688006 Realtime: 687997
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4962     7325
+  Dalvik Heap    16761    16164        0        0    37380    29190     8190
+ Dalvik Other      752      752        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    27293    23324      184        0    49668    34152    15515
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:42 2017
+Applications Memory Usage (kB):
+Uptime: 702648 Realtime: 702640
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3602     3552        0        0    12288     4958     7329
+  Dalvik Heap    13453    12856        0        0    37380    29264     8116
+ Dalvik Other      684      684        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    23917    19948      184        0    49668    34222    15445
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:44:56 2017
+Applications Memory Usage (kB):
+Uptime: 707941 Realtime: 707932
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3606     3556        0        0    12288     4946     7341
+  Dalvik Heap    14729    14132        0        0    37380    29190     8190
+ Dalvik Other      720      720        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    25233    21264      184        0    49668    34136    15531
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:03 2017
+Applications Memory Usage (kB):
+Uptime: 722257 Realtime: 722248
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3606     3556        0        0    12288     4876     7411
+  Dalvik Heap    23345    22748        0        0    37350    29191     8159
+ Dalvik Other      868      868        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1058      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1493        0      152        0                           
+    .oat mmap      419        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      608      608        0        0                           
+        TOTAL    33997    30028      184        0    49638    34067    15570
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:09 2017
+Applications Memory Usage (kB):
+Uptime: 727961 Realtime: 727952
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4931     7356
+  Dalvik Heap    13461    12864        0        0    37380    29264     8116
+ Dalvik Other      696      696        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24020    20036      188        0    49668    34195    15472
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:17 2017
+Applications Memory Usage (kB):
+Uptime: 737792 Realtime: 737784
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4939     7348
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23892    19908      188        0    49639    34129    15509
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:27 2017
+Applications Memory Usage (kB):
+Uptime: 747791 Realtime: 747782
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3630     3580        0        0    12288     4939     7348
+  Dalvik Heap    13365    12768        0        0    37350    29190     8160
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23888    19904      188        0    49638    34129    15508
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:37 2017
+Applications Memory Usage (kB):
+Uptime: 757826 Realtime: 757817
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3630     3580        0        0    12288     4940     7347
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23888    19904      188        0    49639    34130    15508
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:45:47 2017
+Applications Memory Usage (kB):
+Uptime: 767835 Realtime: 767827
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3630     3580        0        0    12288     4939     7348
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23888    19904      188        0    49639    34129    15509
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:18 2017
+Applications Memory Usage (kB):
+Uptime: 778230 Realtime: 778221
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3630     3580        0        0    12288     4942     7345
+  Dalvik Heap    15849    15252        0        0    37380    29190     8190
+ Dalvik Other      740      740        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    26448    22464      188        0    49668    34132    15535
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:19 2017
+Applications Memory Usage (kB):
+Uptime: 788019 Realtime: 788010
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3630     3580        0        0    12288     4942     7345
+  Dalvik Heap    20109    19512        0        0    37380    29221     8159
+ Dalvik Other      804      804        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    30772    26788      188        0    49668    34163    15504
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:23 2017
+Applications Memory Usage (kB):
+Uptime: 798015 Realtime: 798007
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4942     7345
+  Dalvik Heap    13433    12836        0        0    37410    29249     8161
+ Dalvik Other     1232     1232        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24528    20544      188        0    49698    34191    15506
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:41 2017
+Applications Memory Usage (kB):
+Uptime: 808097 Realtime: 808088
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4942     7345
+  Dalvik Heap    14221    13624        0        0    37380    29190     8190
+ Dalvik Other      712      712        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24796    20812      188        0    49668    34132    15535
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:41 2017
+Applications Memory Usage (kB):
+Uptime: 817924 Realtime: 817915
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4941     7346
+  Dalvik Heap    23261    22664        0        0    37380    29221     8159
+ Dalvik Other      864      864        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    33988    30004      188        0    49668    34162    15505
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:47 2017
+Applications Memory Usage (kB):
+Uptime: 827828 Realtime: 827820
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4941     7346
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23892    19908      188        0    49639    34131    15507
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:46:57 2017
+Applications Memory Usage (kB):
+Uptime: 837863 Realtime: 837855
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4939     7348
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23892    19908      188        0    49639    34129    15509
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:47:07 2017
+Applications Memory Usage (kB):
+Uptime: 847873 Realtime: 847864
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4938     7349
+  Dalvik Heap    13365    12768        0        0    37351    29190     8161
+ Dalvik Other      664      664        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23892    19908      188        0    49639    34128    15510
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:47:17 2017
+Applications Memory Usage (kB):
+Uptime: 857855 Realtime: 857846
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4936     7351
+  Dalvik Heap    13401    12804        0        0    37351    29194     8157
+ Dalvik Other      680      680        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      295        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23922    19960      188        0    49639    34130    15508
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:12 2017
+Applications Memory Usage (kB):
+Uptime: 868313 Realtime: 868305
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4929     7358
+  Dalvik Heap    13381    12784        0        0    37352    29191     8161
+ Dalvik Other      668      668        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      295        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23890    19928      188        0    49640    34120    15519
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       40
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:15 2017
+Applications Memory Usage (kB):
+Uptime: 909383 Realtime: 909374
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4945     7342
+  Dalvik Heap    19257    18660        0        0    37380    29317     8063
+ Dalvik Other      792      792        0        0                           
+        Stack      740      740        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    29912    25924      192        0    49668    34262    15405
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:15 2017
+Applications Memory Usage (kB):
+Uptime: 910728 Realtime: 910719
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4945     7342
+  Dalvik Heap    21321    20724        0        0    37380    29348     8032
+ Dalvik Other      824      824        0        0                           
+        Stack      740      740        0        0                           
+    Other dev        9        0        8        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    32008    28020      192        0    49668    34293    15374
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       43
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:15 2017
+Applications Memory Usage (kB):
+Uptime: 878271 Realtime: 878262
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4942     7345
+  Dalvik Heap    13913    13316        0        0    37380    29229     8151
+ Dalvik Other      676      676        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24452    20468      188        0    49668    34171    15496
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       43
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:15 2017
+Applications Memory Usage (kB):
+Uptime: 888017 Realtime: 888008
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3634     3584        0        0    12288     4944     7343
+  Dalvik Heap    15089    14492        0        0    37380    29260     8120
+ Dalvik Other      724      724        0        0                           
+        Stack      744      744        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    25676    21692      188        0    49668    34204    15463
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       43
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:25 2017
+Applications Memory Usage (kB):
+Uptime: 918179 Realtime: 918170
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4947     7340
+  Dalvik Heap    13649    13052        0        0    37473    29193     8280
+ Dalvik Other      704      704        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      309        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24232    20256      188        0    49761    34140    15620
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:33 2017
+Applications Memory Usage (kB):
+Uptime: 928301 Realtime: 928293
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4946     7341
+  Dalvik Heap    13445    12848        0        0    37380    29264     8116
+ Dalvik Other      692      692        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24050    20040      188        0    49668    34210    15457
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:48:42 2017
+Applications Memory Usage (kB):
+Uptime: 938045 Realtime: 938037
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4948     7339
+  Dalvik Heap    13485    12888        0        0    37401    29267     8134
+ Dalvik Other      692      692        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24090    20080      188        0    49689    34215    15473
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:49:05 2017
+Applications Memory Usage (kB):
+Uptime: 963330 Realtime: 963322
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4948     7339
+  Dalvik Heap    13357    12760        0        0    37380    29219     8161
+ Dalvik Other      704      704        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23974    19964      188        0    49668    34167    15500
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:49:05 2017
+Applications Memory Usage (kB):
+Uptime: 948297 Realtime: 948288
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4948     7339
+  Dalvik Heap    14617    14020        0        0    37380    29190     8190
+ Dalvik Other      720      720        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    25250    21240      188        0    49668    34138    15529
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:49:11 2017
+Applications Memory Usage (kB):
+Uptime: 968078 Realtime: 968069
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4941     7346
+  Dalvik Heap    13505    12908        0        0    37410    29294     8116
+ Dalvik Other      688      688        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24106    20096      188        0    49698    34235    15462
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:50:25 2017
+Applications Memory Usage (kB):
+Uptime: 988692 Realtime: 988683
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4939     7348
+  Dalvik Heap    16441    15844        0        0    37380    29192     8188
+ Dalvik Other      748      748        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    27102    23092      188        0    49668    34131    15536
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       44
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:50:25 2017
+Applications Memory Usage (kB):
+Uptime: 978169 Realtime: 978160
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3638     3588        0        0    12288     4939     7348
+  Dalvik Heap    14925    14328        0        0    37380    29224     8156
+ Dalvik Other      724      724        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1064      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      343        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      423        0       28        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    25562    21552      188        0    49668    34163    15504
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       18         Parcel count:       44
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:50:26 2017
+Applications Memory Usage (kB):
+Uptime: 1046894 Realtime: 1046886
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3637     3588        0        0    12288     4941     7346
+  Dalvik Heap    13522    12944        0        0    37416    29268     8148
+ Dalvik Other      904      904        0        0                           
+        Stack      768      768        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1060      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      415        0       28        0                           
+    .art mmap     1495     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24298    20352      188        0    49704    34209    15494
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       44
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:50:50 2017
+Applications Memory Usage (kB):
+Uptime: 1051166 Realtime: 1051157
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3645     3596        0        0    12288     4956     7331
+  Dalvik Heap    13550    12972        0        0    37383    29190     8193
+ Dalvik Other      708      708        0        0                           
+        Stack      772      772        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1060      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      317        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      415        0       28        0                           
+    .art mmap     1495     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24142    20196      188        0    49671    34146    15524
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 08:52:42 2017
+Applications Memory Usage (kB):
+Uptime: 1179967 Realtime: 1179959
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3645     3596        0        0    12288     4957     7330
+  Dalvik Heap    13362    12784        0        0    37351    29191     8160
+ Dalvik Other      668      668        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1060      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      316        0        0        0                           
+    .dex mmap     1498        0      156        0                           
+    .oat mmap      414        0       28        0                           
+    .art mmap     1495     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    23904    19960      188        0    49639    34148    15490
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:01:52 2017
+Applications Memory Usage (kB):
+Uptime: 1726222 Realtime: 1726213
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3647     3600        0        0    12288     4950     7337
+  Dalvik Heap    13706    13128        0        0    37354    29301     8053
+ Dalvik Other      712      712        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1061      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      316        0        0        0                           
+    .dex mmap     1504        0      156        0                           
+    .oat mmap      407        0       16        0                           
+    .art mmap     1495     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24294    20352      176        0    49642    34251    15390
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:04:07 2017
+Applications Memory Usage (kB):
+Uptime: 1865371 Realtime: 1865363
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3654     3604        0        0    12288     4960     7327
+  Dalvik Heap    13525    12928        0        0    37352    29227     8125
+ Dalvik Other      692      692        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1080      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      316        0        0        0                           
+    .dex mmap     1504        0      156        0                           
+    .oat mmap      415        0       16        0                           
+    .art mmap     1501     1300        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      644      644        0        0                           
+        TOTAL    24133    20136      176        0    49640    34187    15452
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:05:42 2017
+Applications Memory Usage (kB):
+Uptime: 1958891 Realtime: 1958883
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3685     3620        0        0    12288     4979     7308
+  Dalvik Heap    14012    13240        0        0    37352    29419     7933
+ Dalvik Other      740      740        0        0                           
+        Stack      820      820        0        0                           
+    Other dev       13        0       12        0                           
+     .so mmap     1207      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      363        0        0        0                           
+    .dex mmap     1720        0      156        0                           
+    .oat mmap      489        0       16        0                           
+    .art mmap     1564     1304        0        0                           
+   Other mmap       37        4        0        0                           
+      Unknown      645      644        0        0                           
+        TOTAL    25295    20572      184        0    49640    34398    15241
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       11         Parcel count:       44
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:06:16 2017
+Applications Memory Usage (kB):
+Uptime: 1995510 Realtime: 1995502
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3687     3624        0        0    12288     4956     7331
+  Dalvik Heap    13545    12804        0        0    37357    29197     8160
+ Dalvik Other      676      676        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1101      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1518        0      156        0                           
+    .oat mmap      467        0       16        0                           
+    .art mmap     1554     1304        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      645      644        0        0                           
+        TOTAL    24314    20020      176        0    49645    34153    15491
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:06:17 2017
+Applications Memory Usage (kB):
+Uptime: 1998030 Realtime: 1998021
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3687     3624        0        0    12288     4958     7329
+  Dalvik Heap    13609    12868        0        0    37385    29269     8116
+ Dalvik Other      696      696        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1101      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1518        0      156        0                           
+    .oat mmap      467        0       16        0                           
+    .art mmap     1554     1304        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      645      644        0        0                           
+        TOTAL    24398    20104      176        0    49673    34227    15445
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+==>Sat Apr 15 09:06:56 2017
+Applications Memory Usage (kB):
+Uptime: 2010243 Realtime: 2010234
+
+** MEMINFO in pid 2646 [com.push.Youku_PushService] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3687     3624        0        0    12288     4958     7329
+  Dalvik Heap    15881    15140        0        0    37385    29194     8191
+ Dalvik Other      744      744        0        0                           
+        Stack      764      764        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap     1101      200        0        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap      319        0        0        0                           
+    .dex mmap     1518        0      156        0                           
+    .oat mmap      467        0       16        0                           
+    .art mmap     1554     1304        0        0                           
+   Other mmap       33        4        0        0                           
+      Unknown      645      644        0        0                           
+        TOTAL    26718    22424      176        0    49673    34152    15520
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        3           Activities:        0
+              Assets:        3        AssetManagers:        3
+       Local Binders:        8        Proxy Binders:       18
+       Parcel memory:       10         Parcel count:       42
+    Death Recipients:        3      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
