@@ -1,7 +1,0 @@
-增长趋势通过99%检验DalvikPssTotal:	379.4417069522426
-增长趋势通过99%检验DalvikHeapSize:	374.4146341463415
-增长趋势通过99%检验UsedDalvikHeap:	372.76635514018693
-没有通过检验FreeDalvikHeap:	0.0
-增长趋势通过99%检验NativePssTotal:	395.6919125985705
-增长趋势通过99%检验NativeHeapSize:	393.84615384615387
-增长趋势通过99%检验UtilizationDalvik:	4.1226978791501643E-4
