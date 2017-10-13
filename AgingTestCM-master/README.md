@@ -1,5 +1,5 @@
 # Usage
-
+#ADT with eclipse is currently unavailable, use Android-studio instead
 * Windows
   * download JDK7 for Windows
   * download [ADT](developer.android.com)
