@@ -1,5 +1,6 @@
+Results of Youku and ZhiHuVideo are in the directiory 实验数据
 # Usage
-
+#ADT with eclipse is currently unavailable, use Android-studio instead
 * Windows
   * download JDK7 for Windows
   * download [ADT](developer.android.com)
