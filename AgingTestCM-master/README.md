@@ -5,7 +5,7 @@ Results of Youku and ZhiHuVideo are in the directiory 实验数据
   * download JDK7 for Windows
   * download [ADT](developer.android.com)
   * download [Git for windows](msysgit.github.io)
-  * clone this repository `git clone https://github.com/enali/AgingTestCM` int Git Bash
+  * clone this repository `git clone https://github.com/testaging/AginwwgExperiment` int Git Bash
   * import project in eclipse, File->Import->General(Existing Project ...), select project directory. you can get it by input `pwd` in Git Bash, please convert it to Windows style path. convert to windows' style path.
   * change the `local.properties`, set your sdk.dir
   * right click project, add external archives to build path, choose `sdkpath\platforms\android-xx\(android.jar|uiautomator.jar)`
