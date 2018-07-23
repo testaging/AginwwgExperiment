@@ -1,0 +1,44 @@
+randomSeed:7 trendRate = 0.01, anomolyRate = 0.01
+
+LSTM:
+look_back = 10
+LSTMcell 40 40 selu dense 1 epochs = 25, batch_size = 64, verbose = 2
+Train MSE:0.00009
+Test MSE::0.00011
+Train MeanError:0.012323963945
+Test MeanError:0.0111574197213
+trendTrainAccuracy:0.7855297157622739
+trendTestAccuracy:0.795788130185067
+anomolyTrainAccuracy:0.922061191626409
+anomolyTestAccuracy:0.9454697986577181
+1192
+flucTrainAccuracy:0.9026040598728726
+flucTestAccuracy:0.944064901793339
+2342
+
+ANN:
+look_back = 10
+Dense 40, selu, Dense 40 selu Dense 1 epochs = 25, batch_size = 32,verbose = 2
+Train RMSE:0.00007 
+Test RMSE:0.00010
+Train MeanError:0.01241041
+Test MeanError:0.01185574
+trendTrainAccuracy:0.5442800093962885
+trendTestAccuracy:0.5405232929164008
+anomolyTrainAccuracy:0.6241545893719807
+anomolyTestAccuracy:0.6040268456375839
+1192
+flucTrainAccuracy:0.8898913266352265
+flucTestAccuracy:0.9052092228864219
+2342
+
+
+
+LinearResult----
+mapeLinear: 0.11164865861016135 mseLinear: 0.0033167049282 trendAccuracy-Linear: 0.8152380952380952 anomolyAccuracy-Linear: 0.511686143572621 noiseAccuracy-Linear: 0.06652452025586354
+----
+ArimaResult----
+mapeArima: 0.9999970739035596 mseArima: 0.12539426728 trendAccuracy-Arima: 0.5365079365079365 anomolyAccuracy-Arima: 0.5742904841402338 noiseAccuracy-Arima: 0.0
+----
+CurveResult----
+mapeCurve: 0.014206132620921463 mseCurve: 0.000177582888333 trendAccuracy-Curve: 0.47555555555555556 anomolyAccuracy-Curve: 0.8489148580968281 noiseAccuracy-Curve: 0.8140724946695096
